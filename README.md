@@ -1,7 +1,8 @@
 # Discord Language Moderation Bot
 
-A Discord bot designed for automatic message moderation in Ukrainian-focused communities.  
-The main goal is to detect and remove messages written in **pure Russian language**, while allowing Ukrainian, mixed speech (surzhyk), and regional dialects.
+A Discord bot designed for automatic message moderation in Ukrainian-focused communities. The main goal is to detect and remove messages written in pure Russian language, while allowing Ukrainian, mixed speech (surzhyk), and regional dialects.
+About This Project
+I created this bot while learning Python for my small Discord server. I understand this might seem strict to some people, but language moderation is very important to me and my community.
 
 ---
 
